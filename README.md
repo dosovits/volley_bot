@@ -1,4 +1,4 @@
----
+<!-- ---
 title: Python Telegram Bot
 description: A Telegram Bot Written in Python
 tags:
@@ -25,4 +25,4 @@ This example starts a Telegram bot using [python-telegram-bot](https://www.pytho
 
 ## 📝 Notes
 
-This is a basic bot with the command `/start`, more information can be founded at the [offical documentation](https://python-telegram-bot.readthedocs.io/en/stable/).
+This is a basic bot with the command `/start`, more information can be founded at the [offical documentation](https://python-telegram-bot.readthedocs.io/en/stable/). -->
