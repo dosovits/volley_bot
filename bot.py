@@ -89,6 +89,7 @@ async def checkdate(update, context):
         msg = "\n".join([f"@{row['username']}: {row['num_participants']}" for row in date_data])
     await update.message.reply_text(msg)
 
+
 async def cancel(update, context):
     if update.effective_chat.id not in ALLOWED_CHAT_IDS:
         msg = "Бот спит"
