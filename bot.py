@@ -23,7 +23,7 @@ TOKEN = os.environ.get("TELEGRAM_TOKEN")
 
 ALLOWED_CHATS = {
     "test_chat": -762022584,
-    # "alexey": 316821571
+    "alexey": 316821571
 }
 ALLOWED_CHAT_IDS = ALLOWED_CHATS.values()
 
